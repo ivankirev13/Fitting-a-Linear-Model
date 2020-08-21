@@ -1,14 +1,3 @@
----
-title: "MATH40005 Coursework"
-subtitle: 'Kirev, Ivan CID: 01738166'
-output:
-  pdf_document: default
-  word_document: default
-  html_document:
-    df_print: paged
----
-
-
 ### Step 1: Reading in the Data (4 marks)
 
 Here we read in and plot the data contained in `data01738166.txt`.
