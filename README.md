@@ -1,6 +1,6 @@
 # Linear-Regression
 
-This is a project from my first year Statistics module at Imperial College London on fitting a linear model. The script is in the Fitting_a_Linear_Model.Rmd file and the steps are described as follows:
+This is a project from my first year Statistics module at Imperial College London on fitting a linear model. The script is in the Fitting_a_Linear_Model.R file and there is also a R notebook version of the script. The steps are described as follows:
 
 Step 1: Reading in the Data
 Read in the data contained in data01738166.txt, and plot cost vs weight using a scatterplot. Does there
