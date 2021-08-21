@@ -1,0 +1,5 @@
+"0","#extract the residuals from the linear model"
+"0","residuals <- model$residuals"
+"0","#plot the residuals agains the weight"
+"0","plot(weight, residuals, xlab=""Weight"", ylab=""Residual value"")"
+"0",""

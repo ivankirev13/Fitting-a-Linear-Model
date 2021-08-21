@@ -1,0 +1,5 @@
+"0","# extract parameter coefficients from model_3 object"
+"0","beta0hat_3 <- model_3$coefficients[1]"
+"0","beta1hat_3 <- model_3$coefficients[2]"
+"0","# plot the (transformed) values and the regression line"
+"0","plot(n, m)"

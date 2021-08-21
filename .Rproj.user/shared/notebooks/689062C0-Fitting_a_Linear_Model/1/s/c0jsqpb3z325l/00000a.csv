@@ -1,0 +1,6 @@
+"0","z <- log(cost)"
+"0","model <- lm(z ~ weight)"
+"0","# extract parameter coefficients from model object"
+"0","beta0hat <- model$coefficients[1]"
+"0","beta1hat <- model$coefficients[2]"
+"0","plot(weight, z)"

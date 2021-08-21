@@ -1,0 +1,8 @@
+"0","# the outlier is the 10th value, so remove this value to define the inliers"
+"0","x <- df$weight[-10]"
+"0","y <- df$cost[-10]"
+"0","m <- log(y)"
+"0","n <- x^2"
+"0","model_3 <- lm(m ~ n)"
+"0","residuals_3 <- model_3$residuals"
+"0","plot(n, residuals_3)"

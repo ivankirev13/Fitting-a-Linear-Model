@@ -1,0 +1,4 @@
+"0","#extract the residuals from the second linear model"
+"0","residuals_2 <- model_2$residuals"
+"0","#plot the residuals agains t"
+"0","plot(t, residuals_2, xlab=""t"", ylab=""Residual value"")"

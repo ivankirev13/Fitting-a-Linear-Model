@@ -1,0 +1,8 @@
+"0","# read in the data"
+"0","df <- read.table(""data01738166.txt"", sep="","", header=TRUE)"
+"0","# extract the columns of data to separate vectors"
+"0","weight <- df$weight"
+"0","cost <- df$cost "
+"0","# plot a scatterplot of the data"
+"0","plot(x=weight, y=cost, type='p', xlab=""Weight"", ylab=""Cost"")"
+"0",""

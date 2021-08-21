@@ -1,0 +1,6 @@
+"0","t <- (weight)^2"
+"0","model_2 <- lm(z ~ t)"
+"0","#extract parameter coefficients from the second linear model"
+"0","beta0hat_2 <- model_2$coefficients[1]"
+"0","beta1hat_2 <- model_2$coefficients[2]"
+"0","plot (t, z)"

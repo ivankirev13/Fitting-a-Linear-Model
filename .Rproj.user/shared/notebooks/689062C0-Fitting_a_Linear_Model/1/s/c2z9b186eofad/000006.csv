@@ -1,0 +1,1 @@
+"0","boxplot(model_2$residuals, horizontal=TRUE, xlab=""Residual values"")"
